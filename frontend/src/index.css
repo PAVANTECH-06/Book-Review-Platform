@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+}
+body.bg-dark {
+  transition: all 0.3s ease;
+}
+
+body.bg-light {
+  transition: all 0.3s ease;
+}
